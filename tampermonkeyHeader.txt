@@ -1,0 +1,10 @@
+// ==UserScript==
+// @name         PrimetricAvailabilitySectionExtension
+// @namespace    http://tampermonkey.net/
+// @version      0.1
+// @description  The script displays employee's notes and allows you to edit them
+// @author       Pawel Stech
+// @include      /https?:\/\/[betaapp]+\.primetric\.com\/[\/a-zA-Z0-9-]+/
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=primetric.com
+// @grant        none
+// ==/UserScript==
